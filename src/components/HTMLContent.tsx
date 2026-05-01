@@ -67,7 +67,7 @@ export default function HTMLContent() {
             <div className="relative">
               <div className="absolute -left-[41px] top-1 w-5 h-5 rounded-full bg-accent border-4 border-primary"></div>
               <h3 className="text-2xl font-bold text-white">Software Trainee</h3>
-              <p className="text-accent font-medium mb-4">Espire Infolabs, Faridabad | Jun 2025 - Aug 2025</p>
+              <p className="text-accent font-medium mb-4">Espire Infolabs, Gurugram | Jun 2025 - Aug 2025</p>
               <ul className="list-disc list-outside ml-5 text-text-muted space-y-2">
                 <li>Resolved 10+ bugs in Python applications, improving stability.</li>
                 <li>Collaborated to optimize execution time by ~15%.</li>
